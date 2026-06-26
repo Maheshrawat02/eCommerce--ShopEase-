@@ -11,6 +11,7 @@ import 'package:shopease/views/payment_screen.dart';
 import 'package:shopease/views/register_view.dart';
 import 'package:shopease/views/wishlist_view.dart';
 import 'views/login_view.dart';
+import 'package:shopease/views/order_history_view.dart';
 
 void main() {
   runApp(const MyApp());
